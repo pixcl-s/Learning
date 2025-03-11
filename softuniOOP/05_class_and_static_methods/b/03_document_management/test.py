@@ -7,14 +7,16 @@
 #   · edit(new_name: str) - edit the name of the category
 #   · __repr__() - returns a string representation of the category in the following format: "Category {id}: {name}"
 # Class Document
-# The Document class should receive the following parameters upon initialization: id: int, category_id: int, topic_id: int, file_name: str. The class should also have one more attribute called tags (empty list). The class should also have 4 methods:
+# The Document class should receive the following parameters upon initialization: id: int, category_id: int, topic_id: int, file_name: str.
+# The class should also have one more attribute called tags (empty list). The class should also have 4 methods:
 #   · from_instances(id: int, category: Category, topic: Topic, file_name: str) - create a new instance using the provided category and topic instances
 #   · add_tag(tag_content: str) - if the tag is not already in the tags list, add it to the tags list
 #   · remove_tag(tag_content: str) - if the tag is in the tags list, delete it
 #   · edit(file_name: str) - change the file name with the given one
 #   · __repr__() - returns a string representation of a document in the format: "Document {id}: {file_name}; category {category_id}, topic {topic_id}, tags: {tags joined by comma and space)}"
 # Class Storage
-# Upon initialization, the class Storage will not receive any parameters. It should have 3 instance attributes: categories (empty list), topics (empty list), and documents (empty list). The class should have the following methods:
+# Upon initialization, the class Storage will not receive any parameters. It should have 3 instance attributes: categories (empty list), topics (empty list),
+# and documents (empty list). The class should have the following methods:
 #   · add_category(category: Category) - add the category if it is not in the list
 #   · add_topic(topic: Topic) - add the topic if it does not exist
 #   · add_document(document: Document) - add the document if it does not exist
