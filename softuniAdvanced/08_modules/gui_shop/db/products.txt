@@ -1,0 +1,3 @@
+{"id": 1, "name": "video game", "img_path": "game.jpg", "quantity": 15}
+{"id": 2, "name": "manga", "img_path": "manga.jpg", "quantity": 0}
+{"id": 3, "name": "figurine", "img_path": "figurine.jpg", "quantity": 0}

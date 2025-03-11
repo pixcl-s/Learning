@@ -1,0 +1,6 @@
+{"username": "pesho", "password": "123", "first_name": "Pesho", "last_name": "Peshov", "products": []}
+{"username": "goshu", "password": "123", "first_name": "Gosho", "last_name": "Goshov", "products": []}
+
+{"id": 1, "name": "video game", "img_path": "game.jpg", "quantity": 15}
+{"id": 2, "name": "manga", "img_path": "manga.jpg", "quantity": 4}
+{"id": 3, "name": "figurine", "img_path": "figurine.jpg", "quantity": 2}
