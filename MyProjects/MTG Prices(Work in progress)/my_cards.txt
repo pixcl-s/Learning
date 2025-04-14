@@ -1,0 +1,3 @@
+https://api.scryfall.com/cards/b9851cef-baa9-481c-9f22-0355b1c6500e
+https://api.scryfall.com/cards/b9ac7673-eae8-4c4b-889e-5025213a6151
+https://api.scryfall.com/cards/657a745d-038e-4cbd-9ffb-2a76009400a7
