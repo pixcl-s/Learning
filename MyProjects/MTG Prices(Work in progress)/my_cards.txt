@@ -1,3 +1,9 @@
+https://api.scryfall.com/cards/70d0540f-93c6-4af5-ab2d-65e6c03001c7
+https://api.scryfall.com/cards/657a745d-038e-4cbd-9ffb-2a76009400a7
+https://api.scryfall.com/cards/089b6e6f-c178-4612-866f-da9cbc01b442
 https://api.scryfall.com/cards/b9851cef-baa9-481c-9f22-0355b1c6500e
 https://api.scryfall.com/cards/b9ac7673-eae8-4c4b-889e-5025213a6151
-https://api.scryfall.com/cards/657a745d-038e-4cbd-9ffb-2a76009400a7
+https://api.scryfall.com/cards/f21fba59-330b-4daf-bf77-6dd817327a64
+https://api.scryfall.com/cards/0cce7aec-f9b0-461b-8245-5286b741409d
+https://api.scryfall.com/cards/7101cf5d-842e-4923-8974-35377e0d0687
+https://api.scryfall.com/cards/907a990c-6ee9-44e1-85f9-83b261507308
